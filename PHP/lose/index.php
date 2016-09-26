@@ -14,6 +14,8 @@ and open the template in the editor.
         echo "สวัสดี มหา";
         
         echo "ว่าไง พงษ์วริษฐ์";
+        
+       echo "อีนิก อีเลว";
         ?>
     </body>
 </html>
