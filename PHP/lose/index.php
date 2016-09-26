@@ -16,6 +16,13 @@ and open the template in the editor.
         echo "ว่าไง พงษ์วริษฐ์";
         
        echo "อีนิก อีเลว";
+       
+       include './nicki.php';
+       $nicki = new nicki();
+       
+        $nicki->getName("กะหลีศาลาเหลือง");
+       echo $nicki->setName();
+      
         ?>
     </body>
 </html>
