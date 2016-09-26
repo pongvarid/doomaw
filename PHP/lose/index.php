@@ -11,7 +11,7 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-        echo "NewBean";
+        echo "สวัสดี มหา";
         ?>
     </body>
 </html>
