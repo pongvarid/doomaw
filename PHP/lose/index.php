@@ -12,6 +12,8 @@ and open the template in the editor.
     <body>
         <?php
         echo "สวัสดี มหา";
+        
+        echo "ว่าไง พงษ์วริษฐ์";
         ?>
     </body>
 </html>
